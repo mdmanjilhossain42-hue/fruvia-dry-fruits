@@ -1,0 +1,15 @@
+FRUVIA — QUICK ONLINE DEPLOY
+
+1. Open: https://vercel.com/drop
+2. Sign in / create a Vercel account.
+3. Upload this folder's ZIP (Fruvia_v5_Logo_Description.zip) or drag the project folder.
+4. Click Deploy.
+5. Vercel will give you a public https://... URL.
+6. Later, connect a custom domain such as fruvia.com.bd from the Vercel Domains settings.
+
+IMPORTANT:
+This Fruvia v5 is a demo storefront. Product/order/admin data uses browser localStorage.
+For a real business launch, add a server database, secure admin authentication, cloud image storage,
+and a real bKash/Nagad/card payment integration before accepting real customer orders.
+
+Demo admin password: demo123
